@@ -37,16 +37,6 @@ Nous classifions nos analyses selon trois piliers fondamentaux :
 
 ---
 
-## 📂 Structure du Répertoire
-
-| Dossier | Contenu |
-| :--- | :--- |
-| **`/Analyses`** | Rapports détaillés (PDF/TXT) sur les sites et artefacts (Voynich, Gizeh, etc.). |
-| **`/Maths`** | Modélisation des constantes (Phi, Pi, cycles 13:20). |
-| **`/Transpositions`** | Papiers de recherche appliquée : comment intégrer ces concepts dans le code. |
-
----
-
 ## 🚀 Potentiel d'Intégration (Lichen Universe)
 
 > *L'archéologie nous fournit les plans de systèmes qui ont survécu à l'épreuve du temps (l'entropie).*
