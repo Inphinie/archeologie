@@ -2,7 +2,7 @@
 
 > **"Le futur est souvent un passé qui a été oublié."**
 
-Ce répertoire n'est pas un musée. C'est une base de données active dédiée à l'analyse technique, mathématique et systémique des civilisations anciennes. Notre objectif est d'identifier, décoder et **transposer** les savoirs perdus pour enrichir l'architecture du système Lichen.
+Ce répertoire n'est pas un musée. C'est une base de données active dédiée à l'analyse technique, mathématique et systémique des civilisations anciennes. Notre objectif est d'identifier, décoder et **transposer** les savoirs perdus pour enrichir l'architecture de soulutins pour diverses probleme et contexte actuel.
 
 ---
 
